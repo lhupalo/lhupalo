@@ -1,5 +1,7 @@
 # 💫 About Me:
-🎓 M.Sc. in Communications and Signal Processing at Universidade Federal de Santa Catarina (2023)<br>🔎 R&D Researcher at Instituto Nacional de Telecomunicações<br>🔭 O-RAN, 5G, Self-Organizing Networks, and NS-3 simulations<br>👯 I'm looking to collaborate on the future wireless networks<br>🌱 Last research was on how to leverage Reinforcement Learning to optimize traffic in 5G networks, and to build and deploy models through xApps in the near-RT RIC <br>⚙️ Currently working to leverage machine learning on bandwidth prediction and optimization for internet direct links between clients and ISPs <br>
+🎓 M.Sc. in Communications and Signal Processing at Universidade Federal de Santa Catarina (2023)<br>🔎 AI R&D Researcher at Instituto Nacional de Telecomunicações<br>
+					🔭 Machine learning, AI, Software Development<br>
+					⚙️  Working to build and deploy models anywhere for everything<br>
 
 
 ## 🌐 Socials:
