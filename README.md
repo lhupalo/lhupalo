@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 M.Sc. in Communications and Signal Processing at Universidade Federal de Santa Catarina (2023)<br>🔎 AI R&D Researcher at Instituto Nacional de Telecomunicações<br>
+🎓 M.Sc. in Communications and Signal Processing at Universidade Federal de Santa Catarina (2023)<br>🔎 Machine Learning Engineer @ PicPay<br>
 					🔭 Machine learning, AI, Software Development<br>
 					⚙️  Working to build and deploy models anywhere for everything<br>
 
